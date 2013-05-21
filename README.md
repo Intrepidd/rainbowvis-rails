@@ -1,6 +1,6 @@
-# RainbowvisRails
+# Rainbowvis for Rails
 
-TODO: Write a gem description
+Bringing rainbowvis to the rails asset pipeline
 
 ## Installation
 
@@ -18,8 +18,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
 
+- Step1
+
+  In any javascript file :
+
+        // = require rainbowvis
+        
+- Step2
+
+  There is no step2.
+ 
 ## Contributing
 
 1. Fork it
